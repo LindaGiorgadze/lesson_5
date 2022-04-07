@@ -1,0 +1,30 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-le-studio-02-caps/css/bpg-le-studio-02-caps.min.css");
+
+.header {
+    background-color: antiquewhite;
+    padding: 20px 200px;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.navigation {
+    background-color: brown;
+}
+.navigation ul {
+    background-color: aqua;
+}
+.navLi {
+    display: inline-block;
+    background-color: blueviolet;
+}
+.navLi a {
+    color: white;
+    width: 100px;
+    display: inline-block;
+    font-family: "BPG LE Studio 02 Caps", sans-serif;
+}
+.active a {
+    font-family: "ALK Life", sans-serif;
+}
+.Title {
+    font-family: 'Rubik Wet Paint';
+}
